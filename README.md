@@ -28,8 +28,6 @@ In this chapter, you will get an introduction to Java, its history, and its impo
 - [History and Evolution of Java](https://en.wikipedia.org/wiki/Java_(programming_language)#History)
 - [Java Development Kit (JDK) and Java Runtime Environment (JRE)](https://www.oracle.com/java/technologies/javase-downloads.html)
 
-### Downloads
-[Download Chapter 1: Introduction to Java](#)
 
 ### Exercise:
 Write a basic Java program that outputs `"Hello, World!"`. [Learn More](https://www.w3schools.com/java/java_hello.asp)
@@ -46,8 +44,6 @@ Before you start coding, you need to set up your development environment. This c
 - [Installing an IDE (IntelliJ IDEA, Eclipse, or VS Code)](https://www.jetbrains.com/idea/download/)
 - [Setting up Environment Variables (PATH, JAVA_HOME)](https://docs.oracle.com/javase/tutorial/essential/environment/paths.html)
 
-### Downloads
-[Download Chapter 2: Setting Up Your Environment](#)
 
 ### Environment Setup Instructions
 - **macOS:** Follow [these steps](https://docs.oracle.com/en/java/javase/17/install/overview-jdk-installation.html) to set up your environment on macOS.
@@ -70,8 +66,6 @@ This chapter covers the fundamental concepts of Java programming, including vari
 - [Operators (Arithmetic, Comparison, Logical, Assignment)](https://www.tutorialspoint.com/java/java_basic_operators.htm)
 - [Control Statements (if, else, switch, loops)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
 
-### Downloads
-[Download Chapter 3: Java Basics](#)
 
 ### Exercise:
 Write a program to calculate the factorial of a number. [Example](https://www.javatpoint.com/factorial-program-in-java)
@@ -89,8 +83,6 @@ Java is an object-oriented programming language. This chapter dives deep into th
 - [Abstraction and Encapsulation](https://www.javatpoint.com/abstraction-in-java)
 - [Interfaces and Abstract Classes](https://www.geeksforgeeks.org/abstract-classes-in-java/)
 
-### Downloads
-[Download Chapter 4: Object-Oriented Programming](#)
 
 ### Exercise:
 Create a class hierarchy for different types of vehicles (Car, Bike, Truck). [Example](https://www.tutorialspoint.com/java/java_inheritance.htm)
@@ -108,8 +100,6 @@ In this chapter, you will learn about essential data structures and algorithms i
 - [HashMaps and HashSets](https://www.geeksforgeeks.org/java-util-hashmap-in-java/)
 - [Sorting and Searching Algorithms](https://www.javatpoint.com/java-program-to-implement-sorting-algorithms)
 
-### Downloads
-[Download Chapter 5: Data Structures and Algorithms](#)
 
 ### Exercise:
 Implement a simple linked list and perform insertions and deletions.
@@ -128,8 +118,6 @@ Learn how to handle errors and exceptions in Java to make your programs robust a
 - [Custom Exceptions](https://www.geeksforgeeks.org/custom-exceptions-in-java/)
 - [Exception Hierarchy](https://www.tutorialspoint.com/exception-handling-in-java)
 
-### Downloads
-[Download Chapter 6: Exception Handling](#)
 
 ### Exercise:
 Write a program to handle division by zero exception gracefully. [Learn More](https://www.javatpoint.com/java-exception)
@@ -147,8 +135,6 @@ This chapter covers file handling and data streams in Java, enabling you to read
 - [Serialization and Deserialization](https://www.geeksforgeeks.org/serialization-in-java/)
 - [Using BufferedReader and PrintWriter](https://www.tutorialspoint.com/using-bufferedreader-and-printwriter-in-java)
 
-### Downloads
-[Download Chapter 7: Input/Output Operations](#)
 
 ### Exercise:
 Write a program to copy contents from one text file to another. [Example](https://www.javatpoint.com/program-to-copy-the-contents-of-one-file-to-another-file)
@@ -167,8 +153,6 @@ Learn about Java's powerful multithreading capabilities, enabling your programs 
 - [Thread Pools and Executors](https://www.baeldung.com/thread-pool-java-and-guava)
 - [Concurrency Utilities](https://www.oracle.com/technical-resources/articles/java/ma14-java-concurrency.html)
 
-### Downloads
-[Download Chapter 8: Multithreading](#)
 
 ### Exercise:
 Implement a multithreaded program to calculate the sum of numbers from 1 to N. [Example](https://www.tutorialspoint.com/java-program-to-create-multithreaded-application)
@@ -186,8 +170,6 @@ This chapter introduces you to creating Graphical User Interfaces (GUIs) with Ja
 - [Layout Managers](https://docs.oracle.com/javase/tutorial/uiswing/layout/index.html)
 - [Event Handling in GUIs](https://www.javatpoint.com/java-swing-event-handling)
 
-### Downloads
-[Download Chapter 9: GUI Development](#)
 
 ### Exercise:
 Build a simple calculator application with a graphical interface. [Example](https://www.javatpoint.com/calculator-program-in-java)
@@ -205,8 +187,6 @@ In this chapter, you will explore popular Java libraries and frameworks that can
 - [Database Connectivity (JDBC, Hibernate)](https://www.baeldung.com/hibernate-5-jpa)
 - [Dependency Injection and Testing](https://www.tutorialspoint.com/java-dependency-injection)
 
-### Downloads
-[Download Chapter 10: Libraries and Frameworks](#)
 
 ### Exercise:
 Build a simple REST API using Spring Boot and test it using Postman. [Example](https://spring.io/guides/gs/rest-service/)
@@ -224,3 +204,17 @@ This repository is licensed under the [MIT License](LICENSE). See the LICENSE fi
 ---
 
 Happy Coding! 🚀
+
+
+---
+
+## Disclaimer
+
+The programming languages, resources, downloads, and links provided in this repository are the property of their respective owners, creators, and contributors. This repository is intended solely for educational purposes to help learners gain an understanding of each language, how to download and install the required tools, and how to start programming effectively.
+
+The content shared is purely for learning and informational purposes and is not intended to infringe on any copyrights or intellectual property rights. If you are the rightful owner of any resource or content and wish to have it removed, please contact me directly, and I will promptly take the necessary actions to comply with your request.
+
+All credit for the resources, libraries, and tools mentioned in this repository belongs to their respective authors.
+
+
+---
