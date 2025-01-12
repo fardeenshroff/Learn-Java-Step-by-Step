@@ -116,12 +116,100 @@ Implement a simple linked list and perform insertions and deletions.
 
 ---
 
-## Remaining Chapters
-The details for Chapters 6-10 can be provided similarly. Each chapter will include: 
-- [Overview]
-- [Topics Covered]
-- [Downloads]
-- [Exercise(s)]
+## Chapter 6: Exception Handling
+
+### Overview
+Learn how to handle errors and exceptions in Java to make your programs robust and prevent crashes.
+
+### Topics Covered:
+- [What are Exceptions?](https://www.javatpoint.com/exception-handling-in-java)
+- [Try, Catch, Finally](https://docs.oracle.com/javase/tutorial/essential/exceptions/try.html)
+- [Throwing and Catching Exceptions](https://www.w3schools.com/java/java_try_catch.asp)
+- [Custom Exceptions](https://www.geeksforgeeks.org/custom-exceptions-in-java/)
+- [Exception Hierarchy](https://www.tutorialspoint.com/exception-handling-in-java)
+
+### Downloads
+[Download Chapter 6: Exception Handling](#)
+
+### Exercise:
+Write a program to handle division by zero exception gracefully. [Learn More](https://www.javatpoint.com/java-exception)
+
+---
+
+## Chapter 7: Input/Output Operations
+
+### Overview
+This chapter covers file handling and data streams in Java, enabling you to read from and write to files.
+
+### Topics Covered:
+- [Reading and Writing to Files](https://www.javatpoint.com/java-file-handling)
+- [File I/O (Byte and Character Streams)](https://docs.oracle.com/javase/tutorial/essential/io/streams.html)
+- [Serialization and Deserialization](https://www.geeksforgeeks.org/serialization-in-java/)
+- [Using BufferedReader and PrintWriter](https://www.tutorialspoint.com/using-bufferedreader-and-printwriter-in-java)
+
+### Downloads
+[Download Chapter 7: Input/Output Operations](#)
+
+### Exercise:
+Write a program to copy contents from one text file to another. [Example](https://www.javatpoint.com/program-to-copy-the-contents-of-one-file-to-another-file)
+
+---
+
+## Chapter 8: Multithreading
+
+### Overview
+Learn about Java's powerful multithreading capabilities, enabling your programs to run efficiently in parallel.
+
+### Topics Covered:
+- [What is Multithreading?](https://docs.oracle.com/javase/tutorial/essential/concurrency/)
+- [Thread Creation and Management](https://www.javatpoint.com/multithreading-in-java)
+- [Synchronization](https://www.geeksforgeeks.org/synchronized-in-java/)
+- [Thread Pools and Executors](https://www.baeldung.com/thread-pool-java-and-guava)
+- [Concurrency Utilities](https://www.oracle.com/technical-resources/articles/java/ma14-java-concurrency.html)
+
+### Downloads
+[Download Chapter 8: Multithreading](#)
+
+### Exercise:
+Implement a multithreaded program to calculate the sum of numbers from 1 to N. [Example](https://www.tutorialspoint.com/java-program-to-create-multithreaded-application)
+
+---
+
+## Chapter 9: GUI Development
+
+### Overview
+This chapter introduces you to creating Graphical User Interfaces (GUIs) with Java, using libraries like Swing and JavaFX.
+
+### Topics Covered:
+- [Introduction to GUI Programming](https://www.javatpoint.com/java-gui)
+- [Swing Components (JFrame, JButton, JTextField)](https://www.geeksforgeeks.org/java-swing/)
+- [Layout Managers](https://docs.oracle.com/javase/tutorial/uiswing/layout/index.html)
+- [Event Handling in GUIs](https://www.javatpoint.com/java-swing-event-handling)
+
+### Downloads
+[Download Chapter 9: GUI Development](#)
+
+### Exercise:
+Build a simple calculator application with a graphical interface. [Example](https://www.javatpoint.com/calculator-program-in-java)
+
+---
+
+## Chapter 10: Libraries and Frameworks
+
+### Overview
+In this chapter, you will explore popular Java libraries and frameworks that can help you become more productive and write clean, efficient code.
+
+### Topics Covered:
+- [Introduction to Popular Libraries (Apache Commons, Gson, JUnit)](https://www.geeksforgeeks.org/java-open-source-libraries/)
+- [Web Development Frameworks (Spring Boot, JavaServer Faces)](https://spring.io/projects/spring-boot)
+- [Database Connectivity (JDBC, Hibernate)](https://www.baeldung.com/hibernate-5-jpa)
+- [Dependency Injection and Testing](https://www.tutorialspoint.com/java-dependency-injection)
+
+### Downloads
+[Download Chapter 10: Libraries and Frameworks](#)
+
+### Exercise:
+Build a simple REST API using Spring Boot and test it using Postman. [Example](https://spring.io/guides/gs/rest-service/)
 
 ---
 
